@@ -43,6 +43,6 @@ Don't miss out on the opportunity to simplify your students' academic record man
 
 [Download Now](link_to_download_page)
 
----
+#Coming soon !
 
 *Students Marks Analyzer (S.M.A) is a product of JB Softbox. All rights reserved.*
