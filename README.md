@@ -21,7 +21,7 @@ S.M.A provides the following key features:
 
 To start using S.M.A, follow these simple steps:
 
-1. [Download and Install](link_to_download_page) S.M.A on your device.
+1. [Download and Install](https://github.com/Jbsoftboxsl/S.M.A_Free_download/releases/download/SMA/Students_Marks_Analyzer.exe) S.M.A on your device.
 2. Launch the application and create a new session.
 3. Enter students' names and their corresponding subject marks.
 4. Let S.M.A handle the rest! Sit back and watch as it calculates totals, averages, and assigns grades.
@@ -41,8 +41,7 @@ We are committed to providing the best experience possible. If you have any ques
 
 Don't miss out on the opportunity to simplify your students' academic record management. Download S.M.A now and experience the convenience and efficiency it brings to your educational institution.
 
-[Download Now](link_to_download_page)
-
-<h1>Coming soon !</h1>
+[Download Now](https://github.com/Jbsoftboxsl/S.M.A_Free_download/releases/download/SMA/Students_Marks_Analyzer.exe)
+[Contact Us](https://t.me/Jbsoftbox)
 
 *Students Marks Analyzer (S.M.A) is a product of JB Softbox. All rights reserved.*
