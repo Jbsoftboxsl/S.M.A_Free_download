@@ -41,7 +41,8 @@ We are committed to providing the best experience possible. If you have any ques
 
 Don't miss out on the opportunity to simplify your students' academic record management. Download S.M.A now and experience the convenience and efficiency it brings to your educational institution.
 
-[Download Now](https://github.com/Jbsoftboxsl/S.M.A_Free_download/releases/download/SMA/Students_Marks_Analyzer.exe)
-[Contact Us](https://t.me/Jbsoftbox)
+## [Download Now](https://github.com/Jbsoftboxsl/S.M.A_Free_download/releases/download/SMA/Students_Marks_Analyzer.exe)
+
+### [Contact Us](https://t.me/Jbsoftbox)
 
 *Students Marks Analyzer (S.M.A) is a product of JB Softbox. All rights reserved.*
