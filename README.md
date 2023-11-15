@@ -16,6 +16,10 @@ S.M.A provides the following key features:
 - **Sorting by Performance**: Arrange students based on their average marks for quick evaluation.
 - **Export to Excel**: Easily export the analyzed data into an Excel file for record-keeping or further analysis.
 - **Data Retrieval**: Quickly access individual students' marks by simply clicking on their names.
+- **Customize Subjects**: Now you have the flexibility to customize the number of subjects and their names to match your specific educational curriculum.
+- **Temporary Backups**: Even if you forget to save and close your project, SMA ensures your progress is safe with automatic backups when you start the software.
+- **Daily Updates Checkups**: SMA now automatically checks for updates every time you start the software. If an update is available, you'll be seamlessly directed to the update window for easy installation.
+
 
 ## Getting Started
 
